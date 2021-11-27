@@ -59,7 +59,7 @@
     .contact > div > .contact__map{
         height: 400px;
     }
-    .contact__detail:nth-child(2) > .contact__address > p{
+    .contact__detail:nth-child(3) > .contact__address > p{
         font-size: 13px;
     }
 
